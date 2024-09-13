@@ -7,5 +7,3 @@ function myMap(foo, arr) {
 
   return res;
 }
-
-const arr = ["1", "2", "3", "4", "5"];
